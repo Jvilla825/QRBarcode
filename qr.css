@@ -1,0 +1,41 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.barcode {
+    background-color: white;
+    width: 250px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    padding: 15px;
+    border-radius: 16px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: auto;
+    border-radius: 16px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+.p1 {
+    color: black;
+    font-size: 22px;
+}
+
+.p2 {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
